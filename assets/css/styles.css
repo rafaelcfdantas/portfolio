@@ -287,7 +287,7 @@ img {
 }
 
 .home__blob-img {
-    width: 300px;
+    width: 170px;
 }
 
 .home__data {
@@ -755,7 +755,7 @@ img {
     }
 
     .about__img {
-        width: 350px;
+        width: 400px;
     }
 
     .about__description {
@@ -828,5 +828,10 @@ img {
 
     .nav {
         max-width: 1224px;
+    }
+
+    .about__data {
+        align-self: center;
+        line-height: 1.8rem;
     }
 }
